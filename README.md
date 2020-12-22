@@ -29,20 +29,36 @@ In particular, the audio files and images are also following MIT License, they a
 This repository relies on the following tutorials, I really appreciate their efforts:
 
 [Java GUI Tutorial - Make a Login GUI](https://www.youtube.com/watch?v=iE8tZ0hn2Ws&ab_channel=AlexLee)
+
 [JFrame.pack usage](https://blog.csdn.net/sherlocksy/article/details/80110773)
+
 [Java KeyEvent usage](https://www.cnblogs.com/fnlingnzb-learner/p/5954277.html)
+
 [Java Message Box](https://blog.csdn.net/qs17809259715/article/details/88062414)
+
 [RGB conversion](https://www.sioe.cn/yingyong/yanse-rgb-16/)
+
 [Java RGB](https://blog.csdn.net/qq_35923287/article/details/89000446)
+
 [Java Graphics](https://www.cnblogs.com/donghb/p/7637990.html)
+
 [Java snake game](https://www.youtube.com/watch?v=bI6e6qjJ8JQ&list=WL&index=1&t=200s&ab_channel=BroCode)
+
 [Java paintComponent](https://blog.csdn.net/sinolzeng/article/details/42025017)
+
 [JMenuBar usage](https://blog.csdn.net/xietansheng/article/details/77151690)
+
 [Java simulate Keystroke](https://bbs.51cto.com/thread-1097189-1.html)
+
 [Java repaint the frame](https://blog.csdn.net/qq_39350172/article/details/109216844)
+
 [Java to Jar](https://www.cnblogs.com/jayworld/p/9765474.html)
+
 [Jar to exe](https://blog.csdn.net/qq_21808961/article/details/83002500)
+
 [How to Play, Loop, Pause and Stop Music in Java](https://www.youtube.com/watch?v=TErboGLHZGA&ab_channel=MaxO%27Didily)
+
+
 
 Also, I appreciate the teacher who tolerates my delay and my friends who inspired me so much.
 
